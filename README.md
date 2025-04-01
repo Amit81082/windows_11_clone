@@ -1,8 +1,11 @@
 ﻿# windows_11_clone
 🚀 A sleek and interactive Windows 11 desktop clone built using **HTML, CSS, and JavaScript**. This project replicates the look and feel of the Windows 11 interface, featuring smooth animations, taskbar functionality, and interactive app windows.  
 
-![Project Preview](./images/windows-11-preview.png)  
-*(Include a screenshot of your project here to make the README visually appealing.)*  
+Live Demo- https://amit81082.github.io/windows_11_clone/
+
+Screenshot - ![image](https://github.com/user-attachments/assets/55825b76-c5c8-4db2-8ca1-05ab6239d3fa)
+![image](https://github.com/user-attachments/assets/9129bdf8-92a4-4fd5-95db-43811508f8e7)
+
 
 ---
 
